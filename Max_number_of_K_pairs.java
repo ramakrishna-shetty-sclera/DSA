@@ -8,6 +8,7 @@ public class Max_number_of_K_pairs {
         while(i<nums.length-1){
             if(i<j && nums[i]+nums[j]==k){
 //                This is new pull
+//                this is test for seccond commit
                 result++;
             }
         }
