@@ -7,7 +7,7 @@ public class Max_number_of_K_pairs {
         int t=0;
         while(i<nums.length-1){
             if(i<j && nums[i]+nums[j]==k){
-
+//                This is new pull
                 result++;
             }
         }
